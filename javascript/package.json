@@ -1,0 +1,16 @@
+{
+  "name": "ollama-playground",
+  "version": "1.0.0",
+  "description": "Ollama playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Artem V",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ollama": "^0.5.9"
+  }
+}
